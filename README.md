@@ -24,7 +24,7 @@ sir graham is on a quest for knowledge (and more importantly, correct effing syn
 the why-i'm building this mainly for me.  as a study tool.  
 
 ## Wireframe
-![KQ first page(http://www.linehollis.com/wp-content/uploads/2013/01/dosbox-2013-01-19-13-40-02-25.png)
+![KQ first page}(http://www.linehollis.com/wp-content/uploads/2013/01/dosbox-2013-01-19-13-40-02-25.png)
 
 
 (Your wireframes go here. Preferably two or more)
