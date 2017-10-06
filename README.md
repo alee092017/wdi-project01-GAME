@@ -45,6 +45,9 @@ instructors will switch out depending on question/subject area
 questions typed out in an 8 bit font
 ![8 bit font](https://www.dafont.com/img/charmap/8/_/8_bit_madness0.png)
 
+also...hamburger tree
+![hamburger tree](http://www.linehollis.com/wp-content/uploads/2013/01/dosbox-2013-01-19-13-42-47-50.png)
+
 ## Initial thoughts on game structure
 
 (Write out what challenges you expect to encounter, or ideas you want to come up with)
