@@ -34,6 +34,9 @@ Quiz questions should appear like this with the letters typing out on the screen
 another example
 ![another page](http://falselogic.net/images/KQ2/sierra_017-1.png)
 
+instructors will switch out depending on question/subject area
+![moss](https://ih0.redbubble.net/image.10798747.7663/flat,800x800,075,f.jpg)
+
 questions typed out in an 8 bit font
 ![8 bit font](https://www.dafont.com/img/charmap/8/_/8_bit_madness0.png)
 
