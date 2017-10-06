@@ -4,7 +4,7 @@ Repo for game/first project
 
 ANDREA LEE / OCTOBER 6, 2017
 
-# Code: the quest for perfect syntax  (could just be permanent title) Proposal
+# "Code: the quest for syntax" Proposal
 
 ## What is Code Quiz?
 
@@ -45,8 +45,9 @@ Major challenge-right now I fully suck at all things WDI so completion in a few 
 
 This will not be very graphics heavy...the background might change a few times.
 1.  I will need some quiz questions: Easy, Medium, Difficult
-2.  I would love to put this into a study mode so that it could actually function as a study tool to help the wdi students get practice in coding--again, I seem to understand (most of) the concepts but need 
-3.  Cheat sheet.  I was going to do this anyway -- a quick reference guide of common mistakes/things forgotten ie--interpolation--fng BACKTICKS.  
+2.  I would love to be able to code in 'study mode' so that it could actually function as a study tool to help the wdi students get           practice in coding--again, I seem to understand (most of) the concepts but need a lot more practice/drills for everything.
+3.  Cheat sheet.  I was going to do this anyway -- a quick reference guide of common mistakes/things forgotten 
+    ie--interpolation--fng BACKTICKS.  
 4.  I'll need to animate the typing of words on the screen
 
 ## Phases of Completion
