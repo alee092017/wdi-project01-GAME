@@ -31,10 +31,13 @@ Sorry, these aren't wireframes, they're just swipes but there's not going to be 
 
 Quiz questions should appear like this with the letters typing out on the screen
 ![KQ Play](https://cdn.arstechnica.net/01-11-2011/kings_quest_1.jpg)
-![classroo3b](https://i.imgur.com/IyGhNNI.jpg?2)
+![classroo3b](https://i.imgur.com/fegU9xT.jpg?1)
 
-another example
+Need a page here for this is how the game works/instructions guide
+
+quiz begins
 ![another page](http://falselogic.net/images/KQ2/sierra_017-1.png)
+![begin quiz](https://i.imgur.com/NRDtdkt.jpg?1)
 
 instructors will switch out depending on question/subject area
 ![moss](https://ih0.redbubble.net/image.10798747.7663/flat,800x800,075,f.jpg)
