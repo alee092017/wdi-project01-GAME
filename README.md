@@ -27,9 +27,11 @@ the why-i'm building this mainly for me.  as a study tool.
 (Your wireframes go here. Preferably two or more)
 Sorry, these aren't wireframes, they're just swipes but there's not going to be that much navigation-
 ![KQ first page](http://www.linehollis.com/wp-content/uploads/2013/01/dosbox-2013-01-19-13-40-02-25.png)
+![frontlines 8bit](https://i.imgur.com/FgvRaem.jpg?1)
 
 Quiz questions should appear like this with the letters typing out on the screen
 ![KQ Play](https://cdn.arstechnica.net/01-11-2011/kings_quest_1.jpg)
+![classroo3b](https://i.imgur.com/IyGhNNI.jpg?2)
 
 another example
 ![another page](http://falselogic.net/images/KQ2/sierra_017-1.png)
