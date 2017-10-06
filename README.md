@@ -2,7 +2,7 @@
 Repo for game/first project
 
 
-*** Name / Date ***
+ANDREA LEE / OCTOBER 6, 2017
 
 # Code Quiz (working title)  (could just be permanent title) Proposal
 
@@ -24,7 +24,8 @@ sir graham is on a quest for knowledge (and more importantly, correct effing syn
 the why-i'm building this mainly for me.  as a study tool.  
 
 ## Wireframe
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 (Your wireframes go here. Preferably two or more)
