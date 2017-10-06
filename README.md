@@ -72,6 +72,6 @@ This will not be very graphics heavy...the background might change a few times.
 ## Links and Resources
 (Anything you've looked up so far or are thinking about using.)
 used the links and swipes for wireframes....but googled
-where is the sierra archive?  does anyone know what happened to it?
+there used to be a sierra
 
 
