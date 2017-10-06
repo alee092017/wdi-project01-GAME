@@ -19,9 +19,9 @@ Questions will increase in difficulty .
 Need to define how many questions will be in the code quiz.
 
 Want this to look and feel like super early 80s games from sierra--specifically Kings Quest--the very first one from '83/'84.
+sir graham is on a quest for knowledge (and more importantly, correct effing syntax).
 
-
-
+the why-i'm building this mainly for me.  as a study tool.  
 
 ## Wireframe
 
