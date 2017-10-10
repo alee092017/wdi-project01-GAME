@@ -38,14 +38,10 @@ ANDREA LEE / OCTOBER 9, 2017
    *  I have no idea....answer # of questions correctly where # is determined later?  
    *  Or Sir Graham Death
 
-
-
-
-
 ## Feedback from Instructor Panel:
    1.  Make sure the logic of what is holding the questions is thought through (object array)
    2.  Make the classroom the only setting
    3.  Replace all animation with buttons first.
       1.  Do animation AFTER all button functionality works
    4.  __DO GRAPHICS LAST__ (of course)
-   5.  all above should be achievable given time allowed and skill level (we shall see, people....we shall see 😑)
+   5.  all above should be achievable given time allowed and skill level (we shall see, people....we shall see 😑)
