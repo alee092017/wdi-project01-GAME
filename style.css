@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  width: 100%;
+  height: 100%;
+  }
+
+button {
+  font-size: 20px;
+  padding: 20px;
+}
+
+
+
+/*.classroom {
+    display: flex;
+    height: 300px;
+    width: 400 px;
+    border-style: solid;
+    border-color:pink;
+  }
+*/
+
+#chalkboard {
+  height: 650px;
+  width: 600px;
+  border: 1px red solid;
+}
+
+.question {
+  height: 100px;
+  width: 250px;
+  border: 1px solid green;
+}
+/*//user this later for question typing animation:
+font-family: 'VT323', monospace;*/
+.answers {
+  height: 85px;
+  width: 225px;
+  border: 1px solid blue;
+}
+
